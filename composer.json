@@ -37,7 +37,7 @@
     "tecnickcom/tc-lib-pdf": "^8",
     "tecnickcom/tcpdf": "^6",
     "setasign/fpdi": "^2.6",
-    "symfony/process": "^6 || ^7",
+    "symfony/process": "^6 || ^7 || ^8",
     "intervention/image": "^3.11"
   },
   "autoload": {
